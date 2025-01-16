@@ -28,6 +28,7 @@
     </scm>
     <properties>
         <java.version>17</java.version>
+        <start-class>rargrad.spring.massai_mara_park.MassaiMaraParkApplication</start-class>
     </properties>
     <dependencies>
         <dependency>
@@ -83,5 +84,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
